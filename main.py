@@ -1,2 +1,2 @@
 print("Hello", input())
-print("CRASH!!!")
+print('NO crash')
